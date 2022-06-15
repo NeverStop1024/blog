@@ -1,7 +1,7 @@
 ---
 home: true
 # heroImage: /img/web.png
-heroText: 路遥知马力，日久见人心
+heroText: 不积跬步，无以至千里
 tagline: 记录技术，记录生活
 # actionText: 立刻进入 →
 # actionLink: /web/

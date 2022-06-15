@@ -29,7 +29,7 @@ const htmlModule: VdoingThemeConfig['htmlModules'] = {
       font-weight: bold;
       margin: 0 0 8px 0;
     ">个人微信</p>
-    <img src="/img/wechat.png"  style="width:100%;" />
+    <img src="https://cdn.jsdelivr.net/gh/NeverStop1024/images-store@main/blog/wechat_18oKZg.png"  style="width:100%;" />
     </p>
     </div>`,
   // `<!-- 纵向自适应 -->
