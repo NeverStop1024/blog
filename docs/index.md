@@ -1,7 +1,7 @@
 ---
 home: true
 # heroImage: /img/web.png
-heroText: 积跬步以至千里
+heroText: XianLiang Dong's Blog
 tagline: 记录技术，记录生活
 # actionText: 立刻进入 →
 # actionLink: /web/
