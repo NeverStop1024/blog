@@ -37,6 +37,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
           { text: '操作系统', link: '/develop/操作系统/' },
         ]
       },
+      { text: '工具', link: '/tool/' },
       { text: '阅读', link: '/read/' },
       { text: '收藏', link: '/collection/' },
       {
