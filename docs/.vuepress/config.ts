@@ -30,7 +30,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
         text: '技术',
         items: [
           { text: '前端', link: '/develop/web/base/HTML/' },
-          { text: '后端', link: '/develop/Go/' },
+          { text: '后端', link: '/develop/service/node/egg/' },
           { text: 'Git', link: '/develop/Git/' },
           { text: 'Docker', link: '/develop/Docker/' },
           { text: '网络', link: '/develop/网络/' },
