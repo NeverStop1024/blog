@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[93],{418:function(t,n,s){"use strict";s.r(n);var o=s(4),e=Object(o.a)({},(function(){var t=this._self._c;return t("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[t("p",[t("strong",[this._v("参考：")]),this._v("\nhttps://github.com/dwanda/dragComponent")])])}),[],!1,null,null,null);n.default=e.exports}}]);
